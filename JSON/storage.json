@@ -1,0 +1,80 @@
+{
+	"urls": {
+		"hack.chat": {
+			"owner": "Marzavec (used to be Vortico)",
+			"notes": ["This site, amazing right?"]
+		},
+		"minuxos.com": {
+			"owner": "MinusGix-ish, i forget who the owner of the site is",
+			"notes": ["An Operating System, very high-tech."]
+		},
+		"google.com": {
+			"owner": "Some guy you never actually hear about despite being the head of a huge corporation",
+			"notes": ["A search engine.", "Most do not know how to use it, which is why they come here."]
+		},
+		"paswd4.com": {
+			"owner": "BlackHat",
+			"notes": ["Based on his trip when vortico was still admin."]
+		},
+		"andrewbelt.com": {
+			"owner": "Vortico",
+			"notes": ["The original creator of hack.chat."]
+		},
+		"marzavec.com": {
+			"owner": "Marzavec",
+			"notes": ["A puzzle."]
+		},
+		"edgeofthewww.com": {
+			"owner": "Rhondonize (rip)",
+			"notes": ["Has been gone for a while now."]
+		},
+		"32chan.com": {
+			"owner": "Dark0termite (used to be nanotech)"
+		},
+		"github.com": {
+			"notes": ["Most users here have an account there, if that isn't bad then I don't know what is."]
+		},
+		"bing.com": {
+			"notes": ["Why?"]
+		},
+		"?programming": {
+			"notes": ["This channel, well I assume I'm in ?programming.", "The main lobby of HC, despite having a lobby channel."]
+		},
+		"?math": {
+			"owner": "God Emperor Kainui",
+			"notes": ["The second most active channel, though it's actually closer to calling ?programming a twenty dollar bill and calling ?math a four dollar bill. Both nice, but one is obviously worth more."]
+		},
+		"?voxed": {
+			"owner": "voxed",
+			"notes": ["cp cp spanish mexicanos and more cp"]
+		},
+		"stackoverflow.com": {
+			"notes": ["Best site."]
+		},
+		"unrealsecurity.com": {
+			"owner": "JQuery"
+		},
+		"localhost": {
+			"owner": "me"
+		},
+		"root": {
+			"owner": "me"
+		},
+		"127.0.0.1": {
+			"owner": "me"
+		},
+		"minusgix.tk": {
+			"owner": "MinusGix",
+			"notes": ["This hasn't actually existed in a while."]
+		},
+		"minuxgix.tk": {
+			"owner": "MinusGix",
+			"notes": ["I never actually got this to work."]
+		},
+		"0x17.de": {
+			"owner": "0x17",
+			"notes": ["I like his beard."]
+		}
+	},
+	"verifiedTrips": ["S7+U5S"]
+}

@@ -1,0 +1,12 @@
+{
+	"websocketURL": "wss://hack.chat/chat-ws",
+
+	"trigger": "=",
+	"channel": "programming",
+	"nick": "urlbot",
+	"password": "",
+
+	"ownerTrip": "",
+
+	"tripLength": 6
+}
